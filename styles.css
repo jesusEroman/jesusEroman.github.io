@@ -1,0 +1,61 @@
+.background-main {
+  background-color: #1b75bb;
+  color: white;
+}
+
+.btn-custom-secondary {
+  background-color: #bfdad0;
+  border-radius: 1px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: 0.5s;
+}
+.btn-custom-secondary:hover {
+  align-self: center;
+  background-color: #bfdad0;
+  scale: 1.1;
+  translate: 0px -5px;
+}
+.btn-custom-round {
+  background-color: #bfdad0;
+  border-radius: 90px;
+}
+.btn-custom-round:hover {
+  background-color: #bfdad0;
+}
+.btn-collapse {
+  background: none;
+  border: none;
+  width: 100%;
+  color: white;
+}
+
+.navbar-row-div,
+.viz-row-div,
+.footer-row-div {
+  width: 100% !important;
+}
+.viz-dashboard-div {
+  min-height: 660px;
+}
+.nav-buttons-div {
+  align-self: center;
+}
+
+.viz-row-div {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.viz-section {
+  text-align: -webkit-center;
+}
+
+.footer-list {
+  list-style: none;
+}
+.footer-link {
+  text-decoration: none;
+  color: white;
+}
+.footer-link:hover {
+  text-decoration: underline;
+}
